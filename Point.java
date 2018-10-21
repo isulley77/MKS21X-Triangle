@@ -6,8 +6,8 @@ public class Point{
     
     public Point(double x, double y){
     
-        x=X;
-        y=Y;
+        x = this.x;
+        y = this.y;
     
     }
     
